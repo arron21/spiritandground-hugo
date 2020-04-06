@@ -3,8 +3,17 @@
 
 <section class="container">
 
-    {{ range first 10 .Data.Pages }}
-    <h4><a href={{ .Permalink }}>{{ .Title }}</a></h4>
+
+    <h4><a href="art">Art</a></h4>
+    <h4><a href="short-stories">Short Stories</a></h4>
+
+    <h4><a href="poetry">Poetries</a></h4>
+
+
+    {{ range .Data.Pages }}
+    {{ if eq .Type "page" }}
+    <h4><a href="{{ .Permalink }}">{{ .Title }}</a></h4>
+    {{ end }}
     {{ end }}
 </section>
 
