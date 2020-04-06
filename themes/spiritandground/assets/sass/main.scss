@@ -1,0 +1,23 @@
+html {
+    background: url("/img/email-pattern.png");
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen-Sans, Ubuntu, Cantarell, "Helvetica Neue", sans-serif;
+}
+
+body {
+    width: 60em;
+    margin: auto;
+    max-width: 95%;
+
+}
+
+@import 'color';
+@import 'typography';
+@import 'container';
+
+@import 'logo';
+@import 'header';
+
+@import 'contact';
+
+
+@import 'random';
