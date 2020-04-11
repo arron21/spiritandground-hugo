@@ -1,4 +1,4 @@
-baseURL = "http://spiritandground.com/"
+baseURL = "https://spiritandground.com/"
 languageCode = "en-us"
 title = "MSpirit and Ground"
 theme = "spiritandground"
