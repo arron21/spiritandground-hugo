@@ -1,9 +1,25 @@
 $teal: #729282;
 $orange: #9a5009;
-$beige: #796c42;
+$beige: #545042;
 $black: #1f1812;
 
 $primary: $teal;
 $secondary: $orange;
 $low: $beige;
 $dark: $black;
+
+.pri {
+    color: $primary;
+}
+
+.sec {
+    color: $secondary;
+}
+
+.low {
+    color: $low;
+}
+
+.dark {
+    color: $dark;
+}

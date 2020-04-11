@@ -1,7 +1,27 @@
-@import url('https://fonts.googleapis.com/css2?family=Playfair+Display&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Lora:ital@0;1&family=Montserrat:wght@100&family=Playfair+Display:ital,wght@0,400;0,500;0,600;0,700;0,800;0,900;1,400;1,500;1,600;1,700;1,800;1,900&family=Raleway:ital,wght@0,100;0,400;1,100&display=swap');
 
 a {
     color: #9c4e20;
     margin-bottom: 1em;
     text-decoration: none;
+}
+
+.thick {
+    font-weight: 900;
+
+}
+
+
+.big {
+    font-size: 2rem;
+    margin-top: 36px;
+
+}
+
+.sans {
+    font-family: Montserrat;
+}
+
+.tiny {
+    font-size: .5em;
 }

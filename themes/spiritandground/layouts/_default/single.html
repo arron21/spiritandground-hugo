@@ -3,10 +3,19 @@
 
 
 {{ if .Date }}
-<time class="post-date" datetime="{{ .Date.Format "2006-01-02 15:04:05 MST" }}">
-  {{ .Date.Format "02 Jan 2006" }}
-</time>
+<h1 class="big thick">
+  {{ .Title }}
+  <time class="sans tiny post-date" datetime="{{ .Date.Format "2006-01-02" }}">
+    {{ .Date.Format "2006-01-02" }}
+  </time>
+</h1>
+
 {{ end }}
 
 {{ .Site.Params.postHeaderContent | safeHTML }}
-{{ .Content }}
+<section class="content">
+
+  {{ .Content }}
+</section>
+
+<a href="/">back home</a>

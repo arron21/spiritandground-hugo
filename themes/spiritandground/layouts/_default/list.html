@@ -4,9 +4,12 @@
 
 {{.Content}}
 {{ range .Pages }}
-<h2>
-    <a href="{{.URL}}">{{.Title}}</a>
-    <small>{{.Date.Format "2006-01-02"}}</small>
-</h2>
-<p>{{.Description}}</p>
+<div class="container">
+
+    <div class="big thick">
+        <a href="{{.URL}}">{{.Title}}</a>
+        <small class="sans tiny">{{.Date.Format "2006-01-02"}}</small>
+    </div>
+    <p class="low">{{.Description}}</p>
+</div>
 {{ end }}

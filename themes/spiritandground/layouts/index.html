@@ -1,20 +1,29 @@
 {{ partial "head.html" . }}
 {{ partial "header.html" . }}
 
-<section class="container">
+<section class="container homepage">
 
+    <ul>
+        <li>
+            <div class="big thick"><a href="art">Art</a></div>
+        </li>
+        <li>
 
-    <h4><a href="art">Art</a></h4>
-    <h4><a href="short-stories">Short Stories</a></h4>
+            <div class="big thick"><a href="short-stories">Short Stories</a></div>
+        </li>
+        <li>
 
-    <h4><a href="poetry">Poetries</a></h4>
+            <div class="big thick"><a href="poetry">Poetries</a></div>
+        </li>
+        {{ range .Data.Pages }}
+        {{ if eq .Type "page" }}
+        <li>
+            <div class="big thick"><a href="{{ .Permalink }}">{{ .Title }}</a></div>
+        </li>
+        {{ end }}
+        {{ end }}
+    </ul>
 
-
-    {{ range .Data.Pages }}
-    {{ if eq .Type "page" }}
-    <h4><a href="{{ .Permalink }}">{{ .Title }}</a></h4>
-    {{ end }}
-    {{ end }}
 </section>
 
 {{ partial "footer.html" . }}

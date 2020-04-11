@@ -4,3 +4,37 @@
     margin: auto;
     max-width: 100%;
 }
+
+
+.homepage {
+
+
+    .big {
+        border-bottom: 2px solid;
+        font-size: 48px;
+
+    }
+
+
+    ul {
+        counter-reset: nav;
+
+    }
+
+    li {
+        position: relative;
+    }
+
+    li:before {
+        bottom: 0;
+        position: absolute;
+        right: 100%;
+        counter-increment: nav;
+        content: "0"counter(nav);
+        font-weight: 100;
+        font-family: Montserrat;
+        width: 50px;
+        border-bottom: 2px solid;
+
+    }
+}
