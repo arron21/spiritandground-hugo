@@ -6,11 +6,11 @@ description: A story about a hero
 ---
 ***
 
-On scattered tired evenings, when I’ve had my fill of life at the moment (a baccalaureate with nothing much to show for it, working three jobs I could have gotten without a degree), my dad can sense my uneasiness. Most episodes like this I stay away from him, knowing that he can see right through any normalcy I try to feign. A direct look in the eye, a “what’s going on?”, will bring me to tears instantly. With a blink, he can bring me to spill most details that I try to keep at a calm ebb in my mind; a neurotic tide, really.
+On scattered tired evenings when I’ve had my fill of life at the moment (a baccalaureate with nothing much to show for it, working three jobs I could have gotten without a degree) my dad can sense my uneasiness. Most episodes like this I stay away from him, knowing that he can see right through any normalcy I try to feign. A direct look in the eye, a “what’s going on?” will bring me to tears instantly. With a blink he can bring me to spill the very details I try to keep at a calm ebb in my mind; a neurotic tide, really.
 
-There are some things I keep to myself, of course, topics I’d like to spare him from. For example, the fact that my birth control is making me feel like Natalie Portman in _Black Swan_ doesn’t usually make it into the conversation; what does though, is honesty about my worries. The pain of not achieving anything I thought I would by twenty-five; a fear that I push away on the daily. So much fear. Sometimes, on good days, I talk about my dreams for the future.
+There are some things I keep to myself, of course, topics I’d like to spare him from; for example, the fact that my birth control is making me feel like Natalie Portman in _Black Swan_ doesn’t usually make it into the conversation; what does though, are some of those all-too-familiar existential woes that make humans feel entirely alone; the pain of not achieving anything I thought I would by twenty-five is the haunt that shows up tonight. Sometimes, on good days, we dream about my future together.
 
-My dad is good with all of this. Incredible, actually.
+My dad is good with all of this; incredible, actually.
 
 On these sacred evenings, from his worn spot on the couch, he’ll tell me about his time at Berkeley when he felt similarly to the way I do now. A semester stint at one of the most prestigious universities in the country. He’ll tell me about a pizza parlor there in town, where he and his friends used to hangout. I’ll picture him: late 80’s gear, laughing and chatting over some arcade games; young and wide-eyed. So much the same as my brother and I now: curious about life and full of wonder— my dad, perhaps even more so than his children, full of deep-seated ambition.
 
