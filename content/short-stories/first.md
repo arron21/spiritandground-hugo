@@ -4,7 +4,7 @@ date: 2020-04-27T19:40:14+00:00
 description: A story about a hero
 
 ---
-**Young Wonder**
+***
 
 On scattered tired evenings, when I’ve had my fill of life at the moment (a baccalaureate with nothing much to show for it, working three jobs I could have gotten without a degree), my dad can sense my uneasiness. Most episodes like this I stay away from him, knowing that he can see right through any normalcy I try to feign. A direct look in the eye, a “what’s going on?”, will bring me to tears instantly. With a blink, he can bring me to spill most details that I try to keep at a calm ebb in my mind; a neurotic tide, really.
 
