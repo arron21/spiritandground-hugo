@@ -1,10 +1,9 @@
 ---
 title: 25-cent Blues
-date: 2020-04-05T19:43:07.000+00:00
+date: 2020-04-05T19:43:07+00:00
 description: A story about nostalgia and warheads
 
 ---
-
 ***
 
 **“Is there anything you want?”**
@@ -27,15 +26,11 @@ Fifteen years ago and some hours, my brother gave me one of his Warheads on our 
 
 Here’s what I really wanted to tell my mom I needed: I needed those times, back. I needed the acre of land that we used to live on. I needed the loose earth that I could make dirt angels in, and I needed the pile of 2 x 4’s to search for blue bellied lizards. I needed the horses that our neighbors had halfway down the road. I needed to feed them crab apples like I had fifteen years, and some hours ago. I needed to go back to the moment I looked at the setting sun behind our house, and thought, “I’m gonna be someone, I’m gonna make it.” I didn’t know what that meant then. I didn’t know that in my case, _​making it​_ required a high toll.
 
-We moved out of that old house two months before my eighth birthday. My great
-
-grandparents were dying and my grandma’s estranged siblings had started a legal battle over who would get the title of the land once their parents passed away. My own parents decided to move before the problem got any worse. I cried every day until we left, claiming I’d never call anywhere else home. Truthfully, I kept that promise. I remember my grandparents waving from the crest of the hill leading up to our house, the cactus and corn field fading as our truck bounced down the old dirt road for the last time. I’d never see it all that way again. Even this day, just a mile down the same bumbling road, so close I could sense every memory, I still wouldn’t be allowed to see it. A place entirely mine, and yet, not; a place entirely mine, and yet, someone else’s. I found myself wondering if they knew how often their home fills my mind...
+We moved out of that old house two months before my eighth birthday. My great-grandparents were dying and my grandma’s estranged siblings had started a legal battle over who would get the title of the land once their parents passed away. My own parents decided to move before the problem got any worse. I cried every day until we left, claiming I’d never call anywhere else home. Truthfully, I kept that promise. I remember my grandparents waving from the crest of the hill leading up to our house, the cactus and corn field fading as our truck bounced down the old dirt road for the last time. I’d never see it all that way again. Even this day, just a mile down the same bumbling road, so close I could sense every memory, I still wouldn’t be allowed to see it. A place entirely mine, and yet, not; a place entirely mine, and yet, someone else’s. I found myself wondering if they knew how often their home fills my mind...
 
 **“Anna?”**
 
-As I snapped into present time, my eyes focused on my mother. She looked so much
-
-older than I had ever imagined she would. Wrinkles formed around her ears and eyes, lines that were deeper and more sallow looking than I ever remembered. I shook my head in response as we made our way to the counter, and my eyes fell to the rainbow of tiny twenty-five cent warhead packages that still, after fifteen years and some hours, sat in a glass fish bowl on the counter. As soon as my mom finished up her transaction I grabbed one, blue, and pulled a quarter out of my pocket.
+As I snapped into present time, my eyes focused on my mother. She looked so much older than I had ever imagined she would; wrinkles formed around her ears and eyes, lines that were deeper and more sallow looking than I ever remembered. I shook my head in response as we made our way to the counter, and my eyes fell to the rainbow of tiny twenty-five cent warhead packages that still, after fifteen years and some hours, sat in a glass fish bowl on the counter. As soon as my mom finished up her transaction I grabbed one, blue, and pulled a quarter out of my pocket.
 
 “Just this, please.”
 
