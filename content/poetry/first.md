@@ -4,7 +4,6 @@ date: 2020-04-27T17:00:00+00:00
 description: ''
 
 ---
-
 ***
 
 I sit here:
@@ -29,13 +28,13 @@ if the idea is a twisted pair
 
 with my lack of math skills-
 
-Or, maybe that’s an excuse;
+or, maybe that’s an excuse;
 
 prolonged torture: masachist.
 
-And so, I’ll be a therapist.
+And so, I’ll be a therapist;
 
-And maybe I’ll spend some time
+maybe then I’ll spend some time
 
 in the trees,
 
