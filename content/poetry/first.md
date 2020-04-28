@@ -34,7 +34,7 @@ prolonged torture: masachist.
 
 And so, I’ll be a therapist;
 
-and I’ll spend some time
+and maybe I’ll spend some time
 
 in the trees,
 
