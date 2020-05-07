@@ -4,7 +4,6 @@ description = "to the scorned"
 title = "Bow To The Queen"
 
 +++
-
 ***
 
 I’m no good at “letting it go”:
