@@ -37,4 +37,10 @@
         border-bottom: 2px solid;
 
     }
+
+    @media (max-width: 720px) {
+        li:before {
+            display: none;
+        }
+    }
 }
