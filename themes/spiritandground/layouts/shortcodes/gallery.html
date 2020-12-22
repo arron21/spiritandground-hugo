@@ -1,0 +1,22 @@
+<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/simplelightbox/2.7.0/simple-lightbox.jquery.min.js" integrity="sha512-Od4zxl966Lig3RRVWNiauBi08aih0HtWRBMdxU+PpzeXqUBKeVscInVj3YjQV+txCT4ntQ9BcZPnVDgu1F+wUQ==" crossorigin="anonymous"></script><link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/simplelightbox/2.7.0/simple-lightbox.css" integrity="sha512-8WAX0xL/cHZ38RXoX2gtuqkAwmDVAzGwoFVmHvn46IDHGWOjTHx0vcl9OapNrfOzpFtql0SNkv+0y0b5Fm8ZkA==" crossorigin="anonymous" />
+<div class="gallery">
+
+    {{ $image := (.Page.Resources.ByType "image") }}
+    {{ with $image }}
+    {{ range . }}
+    {{ $resized := .Resize "x300 q60" }}
+    <a href="{{ .Permalink }}"><img src="{{ $resized.Permalink }}" /></a>
+    {{ end }}
+    {{ end }}
+    
+</div>
+
+<script>
+    $( document ).ready(function() {
+    console.log( "ready!" );
+    $('.gallery a').simpleLightbox({scaleImageToRatio: true, widthRatio:1,heightRatio:1});
+});
+
+    // new SimpleLightbox({elements: '.imageGallery1 a'});
+</script>
