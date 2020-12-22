@@ -1,6 +1,6 @@
 ---
 title: 25-cent Blues
-date: 2020-04-05T19:43:07+00:00
+date: 2020-04-05T19:43:07.000+00:00
 description: A story about nostalgia and warheads
 
 ---
@@ -8,7 +8,9 @@ description: A story about nostalgia and warheads
 
 **“Is there anything you want?”**
 
-What a loaded question that felt like. It was my twenty-second birthday and all I really wanted, honestly, was my childhood back. How does one confess that to their mother, whose only work in life so far has been to make the dreams of her children come true? You don’t— I don’t, anyway. When I was seventeen, I moved to the Big Apple, wide-eyed with ambition that would lead me across the country. Growing up I felt that my only strength was my creativity. I drew constantly: wedding gowns, fairy gowns, you name it. I decided early on that I’d be the greatest fashion designer the world had ever seen. As soon as I graduated high school I left my parents and my brothers in rural California on scholarship to study Fashion Design in New York City, my opportunity to make something of my life. It only took four years and an internship to figure out the reality of the world I lived in. How ugly an industry that takes an art and turns it into a money-making machine could be. The words spoken at my last pitch remain branded into whatever synapse carries the burdened memory, “Wow, truly innovative, but not profitable. Thanks for coming in.”
+What a loaded question that felt like. It was my twenty-second birthday and all I really wanted, honestly, was my childhood back. How does one confess that to their mother, whose only work in life so far has been to make the dreams of her children come true? You don’t— I don’t, anyway. 
+
+When I was seventeen, I moved to the Big Apple, wide-eyed with ambition that would lead me across the country. Growing up, I felt that my only strength was my creativity. I drew constantly: wedding gowns, fairy gowns, you name it. I decided early on that I’d be the greatest fashion designer the world had ever seen. As soon as I graduated high school I left my parents and my brothers in rural California on scholarship to study Fashion Design in New York City, my opportunity to make something of my life. It only took four years and an internship to figure out the reality of the world I lived in. How ugly an industry that takes an art and turns it into a money-making machine could be. The words spoken at my last pitch remain branded into whatever synapse carries the burdened memory, “Wow, truly innovative, but not profitable. Thanks for coming in.”
 
 My mother and I meandered through our local drugstore, The Mesa Market. This place
 
