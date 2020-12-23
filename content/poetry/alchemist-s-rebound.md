@@ -36,8 +36,6 @@ But I just don't know.
 
 So what’s it gonna be? You tell me.
 
-I needed you; need you, now.
-
 \-
 
 Time bends like a bow;
