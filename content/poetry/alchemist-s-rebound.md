@@ -20,7 +20,7 @@ It's a wound I know:
 
 Same aching dream;
 
-little boy, shaking.
+Little boy, shaking.
 
 \-
 
@@ -30,7 +30,7 @@ I; it’s bleeding over me.
 
 Mama says I've gone mad,
 
-but I just don't know.
+But I just don't know.
 
 \-
 
@@ -60,9 +60,9 @@ What alchemy do I need to bring you back to me?
 
 A life for a life;
 
-equivalent exchange,
+Equivalent exchange,
 
-strife for strife?
+Strife for strife?
 
 \-
 
@@ -72,15 +72,15 @@ Just ask it, of me.
 
 You’re not coming home,
 
-there's a wall, I know;
+There's a wall, I know;
 
-wanna see what you hide.
+Wanna see what you hide.
 
 \-
 
 Is there something you’d like to say,
 
-before you float away?
+Before you float away?
 
 Don’t see you there anymore,
 
