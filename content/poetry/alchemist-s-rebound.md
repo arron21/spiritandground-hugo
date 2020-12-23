@@ -30,7 +30,7 @@ I; it’s bleeding over me.
 
 Mama says I've gone mad,
 
-But I just don't know.
+But I just don't know;
 
 \-
 
@@ -68,11 +68,9 @@ Just ask it, of me.
 
 \-
 
-You’re not coming home,
+You’re not coming home, and
 
 There's a wall, I know;
-
-Wanna see what you hide.
 
 \-
 
