@@ -1,7 +1,6 @@
 +++
 date = 2020-05-25T07:00:00Z
 description = ""
-draft = true
 title = "Don't Say To Me \"I Will Die for You\""
 
 +++
