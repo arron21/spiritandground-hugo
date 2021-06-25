@@ -27,7 +27,7 @@ Refugees cry out, “sanctuary!”
 
 And you slam shut the temple doors
 
-Singing prayers of grace;
+Singing prayers of grace
 
 For whom, might I ask?  
 \-
@@ -54,7 +54,7 @@ Or, will you stare at the same doors
 
 Closed tightly before your nose
 
-Crying for the same refuge,
+Crying for the same refuge
 
 Your ears fall deaf to?
 
@@ -84,14 +84,16 @@ Beg for a lamp at the golden door?
 
 \-
 
-You will cry for Sanctuary, I imagine
+You will cry for sanctuary, I imagine
 
 Weep for grace
 
-lords and ladies of the United States
+\-
 
-at their knees, pleading
+god's lords and ladies 
 
-for Sanctuary;
+At their knees, pleading
 
-the audacity.
+For sanctuary;
+
+The audacity.
