@@ -1,52 +1,51 @@
 +++
 date = 2021-06-01T07:00:00Z
-description = ""
+description = "On Systemic Racism"
 title = "Bear Witness"
 
 +++
-  
-I ripped my eyes out;
+I ripped my eyes out
 
-sat within the ranks of Oedipus,
+Sat within the ranks of Oedipus
 
-many recommended this—
-
-\-
-
-But I have born witness,
-
-and I cannot un-see;
+Many recommended this—
 
 \-
 
-tethered under your eyelids,
+But I have born witness
 
-tight rope in your dreams;
+And I cannot un-see
 
 \-
 
-horrors dance.
+Tethered under your eyelids
+
+Tight rope in your dreams
+
+\-
+
+Horrors dance
 
 \-
 
 What can I do with this pain
 
-but hold it in my palms,
+But hold it in my palms
 
-and cry out, “I see! I see!”
+And cry out, “I see! I see!”
 
 \-
 
-Though my voice shakes,
+Though my voice shakes
 
-and I cannot breathe —
+And I cannot breathe —
 
 I can
 
-muster
+Muster
 
 \-
 
-“I have seen.”
+“I have seen!”
 
 \-
