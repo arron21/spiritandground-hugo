@@ -4,21 +4,23 @@ description = ""
 title = "Lances"
 
 +++
-I can see your whole life stretched out in front of me—
+I  see your whole life stretched out in front of me—
 
-A wide, empty road.
+A wide, empty road;
 
 Light glimmers,
 
-Skips rock to rock.
+Skips rock to rock
 
 \-
 
-The sun, golden, as she tries to hide herself beneath the horizon;
+The sun, golden 
+
+as she reaches to hide herself beneath the horizon;
 
 “Don’t go,”
 
-I yearn.
+I yearn;
 
 But the clock beckons,
 
@@ -34,13 +36,13 @@ I know, how- you became;
 
 I know the feel of your hand patting mine-
 
-know the sound of your laugh.
+know the sound of your laugh
 
 \-
 
 Breathe in, breathe out;
 
-Thin air- crisp and full.
+Thin air- crisp and full
 
 \-
 
@@ -54,13 +56,13 @@ The wind lashes at my face;
 
 I know the sting of you turning away,
 
-I remember.
+I remember
 
 \-
 
 I know what it feels to chase the sun;
 
-To beg her to be mine.
+To beg her to be mine
 
 \-
 
@@ -82,15 +84,15 @@ I know what it feels to be
 
 Abandoned here,
 
-Pleading.
+Pleading
 
 \-
 
-Sunlight twinkling on my lashes;
+Sunlight fractured on my face;
 
-Taunting me,
+Taunting me as 
 
-as she pulls her lances
+she pulls her lances
 
 \-
 
@@ -98,10 +100,10 @@ Down into the ground;
 
 Down past the earth;
 
-Around to someone new—
+Around to somewhere new—
 
 \-
 
-The sinking chill of a long winter.
+The sinking chill of a long, familiar winter.
 
 \-
