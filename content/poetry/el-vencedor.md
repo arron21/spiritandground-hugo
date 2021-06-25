@@ -1,6 +1,6 @@
 +++
 date = 2019-11-20T08:00:00Z
-description = ""
+description = "On Cultural Erasure"
 title = "El Vencedor"
 
 +++
