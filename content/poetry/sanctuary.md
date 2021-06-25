@@ -18,7 +18,7 @@ Daggers hung from its neck
 
 You say-
 
-Will you praise God in your next breath?
+Will you praise your god in your next breath?
 
 I'm waiting for the words, to snake from your mouth  
 \-
@@ -90,7 +90,7 @@ Weep for grace
 
 \-
 
-god's lords and ladies 
+The Christian god's lords and ladies 
 
 At their knees, pleading
 
