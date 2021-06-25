@@ -16,11 +16,11 @@ Daggers hung from its neck
 
 “We will not be a _Sanctuary City_ or country-”
 
-You say;
+You say-
 
 Will you praise God in your next breath?
 
-I'm waiting for the words, to snake from your mouth-  
+I'm waiting for the words, to snake from your mouth  
 \-
 
 Refugees cry out, “sanctuary!”
@@ -94,6 +94,4 @@ at their knees, pleading
 
 for Sanctuary;
 
-the audacity. 
-
-  
+the audacity.
