@@ -1,25 +1,18 @@
-{{ partial "head.html" . }}
-{{ partial "header.html" . }}
-
-
-{{ if .Date }}
-<h1 class="big thick">
-  {{ .Title }}
-  <time class="sans tiny post-date" datetime="{{ .Date.Format "2006-01-02" }}">
+{{ partial "head.html" . }} {{ partial "header.html" . }}
+<style>
+  p {
+    font-size: 1.5rem;
+  }
+</style>
+<div class="container">
+  {{ if .Date }}
+  <h1 class="h1">
+    {{ .Title }}
+    <!-- <time class="sans tiny post-date" datetime="{{ .Date.Format "2006-01-02" }}">
     {{ .Date.Format "2006-01-02" }}
-  </time>
-</h1>
+  </time> -->
+  </h1>
 
-{{ end }}
-
-{{ .Site.Params.postHeaderContent | safeHTML }}
-<section class="content">
-  {{ .Content }}
-</section>
-
-<br />
-<br />
-<hr />
-<a href="/">back home</a>
-<br />
-<br />
+  {{ end }} {{ .Site.Params.postHeaderContent | safeHTML }}
+  <section class="content">{{ .Content }}</section>
+</div>

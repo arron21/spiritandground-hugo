@@ -1,47 +1,77 @@
-@import 'reset';
+@import "reset";
 
+// @import "color";
+// @import "typography";
+// @import "img";
 
-html {
-    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen-Sans, Ubuntu, Cantarell, "Helvetica Neue", sans-serif;
-    font-family: 'Playfair Display', serif;
+// @import "form";
+// @import "container";
+
+@import "logo";
+// @import "header";
+@import "footer";
+
+// @import "content";
+
+// @import "contact";
+
+// @import "random";
+
+@import url(https://cdnjs.cloudflare.com/ajax/libs/simple-line-icons/2.4.1/css/simple-line-icons.css);
+@import url(https://fonts.googleapis.com/css?family=Playfair+Display:200,300,400,700);
+$headings-font-family: Playfair Display;
+
+$enable-grid-classes: false;
+$primary: #297f7e;
+$secondary: #eed75a;
+$success: #fec100;
+$danger: #703b3b;
+$info: #63e792;
+$warning: #ffe869;
+$light: #fdfbf7;
+$dark: #555555;
+$enable-gradients: false;
+$spacer: 1.2rem;
+$border-width: 3px;
+$btn-border-radius: 1.35rem;
+
+a {
+  color: #9c4e20;
+  &:hover {
+    color: #9c4e20;
+
+    filter: brightness(0.7);
+  }
+  text-decoration: none;
 }
 
-body {
-    width: 60em;
-    margin: auto;
-    max-width: 95%;
+.home-bg {
+  position: fixed;
+  height: 100vh;
+  width: 100vw;
 
-    &:before {
-        background: url(/img/natural-white.jpg);
-        opacity: .4;
-        content: '';
-        height: 100vh;
-        width: 100vw;
-        display: block;
-        left: 0;
-        position: fixed;
-        z-index: -1;
-    }
+  top: 0;
+  left: 0;
+  z-index: -1;
+  inset: 1;
+  background: url("/hero-bg-md.jpg") top center;
+  background-size: cover;
 
+  &:before {
+    content: "";
+    background: rgba(60, 65, 51, 0.4);
+    position: absolute;
+    bottom: 0;
+    top: 0;
+    left: 0;
+    right: 0;
+  }
 }
 
+h5 {
+  font-size: 2rem;
+}
 
-@import 'color';
-@import 'typography';
-@import 'img';
-
-@import 'form';
-@import 'container';
-
-@import 'logo';
-@import 'header';
-@import 'footer';
-
-@import 'content';
-
-
-
-@import 'contact';
-
-
-@import 'random';
+.card {
+  margin-bottom: 2rem;
+}

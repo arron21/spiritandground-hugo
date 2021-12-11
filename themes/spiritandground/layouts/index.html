@@ -1,25 +1,21 @@
 {{ partial "head.html" . }} {{ partial "header.html" . }}
-
+<style>
+  a,
+  .logo {
+    color: #fff;
+  }
+</style>
 <section class="container homepage">
-  <ul>
-    <li>
-      <div class="big thick"><a href="galleries">Art</a></div>
-    </li>
-    <li>
-      <div class="big thick"><a href="short-stories">Short Stories</a></div>
-    </li>
-    <li>
-      <div class="big thick"><a href="poetry">Poetries</a></div>
-    </li>
-    <li>
-      <div class="big thick"><a href="scripts">Scripts</a></div>
-    </li>
-    {{ range .Data.Pages }} {{ if eq .Type "page" }}
-    <li>
-      <div class="big thick"><a href="{{ .Permalink }}">{{ .Title }}</a></div>
-    </li>
-    {{ end }} {{ end }}
-  </ul>
-</section>
+  <a class="display-2" href="galleries">Art</a><br />
+  <a class="display-2" href="short-stories">Short Stories</a><br />
+  <a class="display-2" href="poetry">Poetries</a><br />
+  <a class="display-2" href="scripts">Scripts</a><br />
 
-{{ partial "footer.html" . }}
+  {{ range .Data.Pages }} {{ if eq .Type "page" }}
+
+  <a class="display-2" href="{{ .Permalink }}">{{ .Title }}</a>
+
+  {{ end }} {{ end }}
+  <div class="home-bg"></div>
+</section>
+<section class="container footer">{{ partial "footer.html" . }}</section>

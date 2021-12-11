@@ -5,11 +5,15 @@
 {{.Content}}
 {{ range .Pages }}
 <div class="container">
+  <div class="card">
+      <div class="card-body">
+        <h5 class="card-title"><a href="{{.URL}}">{{.Title}}</a></h5>
+        <p class="low">{{.Description}}</p>
 
-    <div class="big thick">
-        <a href="{{.URL}}">{{.Title}}</a>
-        <small class="sans tiny">{{.Date.Format "2006-01-02"}}</small>
-    </div>
-    <p class="low">{{.Description}}</p>
+        <!-- <small class="sans tiny">{{.Date.Format "2006-01-02"}}</small> -->
+
+      </div>
+
+  </div>
 </div>
 {{ end }}
